@@ -4,7 +4,7 @@ gensim==3.6.0
 image==1.5.27
 jsonschema==2.6.0
 matplotlib==2.1.2
-numpy==1.14.6
+numpy==1.22.2
 pandas==0.22.0
 Pillow==4.0.0
 regex==2017.11.9
