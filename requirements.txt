@@ -8,7 +8,7 @@ numpy==1.14.6
 pandas==0.22.0
 Pillow==4.0.0
 regex==2017.11.9
-requests==2.18.4
+requests==2.32.0
 scikit-learn==0.19.2
 tensorboardX==1.4
 tensorflow==1.12.0
